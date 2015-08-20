@@ -46,7 +46,7 @@ img {
 
 .topbar {
 	position:fixed;
-	top: 5px;
+	top: 0px;
 	width: 750px;
 	height: 40px;
 	background-color: white;

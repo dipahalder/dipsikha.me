@@ -45,13 +45,13 @@ img {
 }
 
 .topbar {
-	position:fixed;
-	top: 5px;
-	width: 750px;
-	height: 40px;
-	background-color: white;
-	opacity: 0.95;
-	z-index: 100;
+    position: fixed;
+    top: 0px;
+    width: 750px;
+    height: 40px;
+    background-color: white;
+    opacity: 0.95;
+    z-index: 100;
 }
 
 
