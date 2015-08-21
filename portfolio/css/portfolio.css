@@ -181,4 +181,11 @@ body h4 {
 	padding-top: 320px;
 }
 
+.art_video {
+    position:absolute;
+    z-index: 2;
+    padding-top: 42px;
+    margin-left: 92px;
+}
+
 
